@@ -1,0 +1,13 @@
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\bob\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

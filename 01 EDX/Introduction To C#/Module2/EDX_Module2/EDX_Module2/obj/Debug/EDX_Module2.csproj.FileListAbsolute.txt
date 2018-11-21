@@ -1,0 +1,14 @@
+C:\Users\sandr\source\repos\EDX\EDX_Module2\EDX_Module2\bin\Debug\EDX_Module2.exe.config
+C:\Users\sandr\source\repos\EDX\EDX_Module2\EDX_Module2\bin\Debug\EDX_Module2.exe
+C:\Users\sandr\source\repos\EDX\EDX_Module2\EDX_Module2\bin\Debug\EDX_Module2.pdb
+C:\Users\sandr\source\repos\EDX\EDX_Module2\EDX_Module2\obj\Debug\EDX_Module2.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\EDX\EDX_Module2\EDX_Module2\obj\Debug\EDX_Module2.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\EDX\EDX_Module2\EDX_Module2\obj\Debug\EDX_Module2.exe
+C:\Users\sandr\source\repos\EDX\EDX_Module2\EDX_Module2\obj\Debug\EDX_Module2.pdb
+C:\Users\sandr\source\repos\EDX\Introduction\Module2\EDX_Module2\EDX_Module2\bin\Debug\EDX_Module2.exe.config
+C:\Users\sandr\source\repos\EDX\Introduction\Module2\EDX_Module2\EDX_Module2\bin\Debug\EDX_Module2.exe
+C:\Users\sandr\source\repos\EDX\Introduction\Module2\EDX_Module2\EDX_Module2\bin\Debug\EDX_Module2.pdb
+C:\Users\sandr\source\repos\EDX\Introduction\Module2\EDX_Module2\EDX_Module2\obj\Debug\EDX_Module2.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\EDX\Introduction\Module2\EDX_Module2\EDX_Module2\obj\Debug\EDX_Module2.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\EDX\Introduction\Module2\EDX_Module2\EDX_Module2\obj\Debug\EDX_Module2.exe
+C:\Users\sandr\source\repos\EDX\Introduction\Module2\EDX_Module2\EDX_Module2\obj\Debug\EDX_Module2.pdb

@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb

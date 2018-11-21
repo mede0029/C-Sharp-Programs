@@ -1,0 +1,13 @@
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\SelfAssessment Lab\SelfAssessment Lab\bin\Debug\SelfAssessment Lab.exe.config
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\SelfAssessment Lab\SelfAssessment Lab\bin\Debug\SelfAssessment Lab.exe
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\SelfAssessment Lab\SelfAssessment Lab\bin\Debug\SelfAssessment Lab.pdb
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\SelfAssessment Lab\SelfAssessment Lab\obj\Debug\SelfAssessment Lab.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\SelfAssessment Lab\SelfAssessment Lab\obj\Debug\SelfAssessment Lab.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\SelfAssessment Lab\SelfAssessment Lab\obj\Debug\SelfAssessment Lab.exe
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\SelfAssessment Lab\SelfAssessment Lab\obj\Debug\SelfAssessment Lab.pdb
+D:\Users\Brennan\Desktop\Sandra Labs\EDX\Lab1\SelfAssessment Lab\SelfAssessment Lab\bin\Debug\SelfAssessment Lab.exe.config
+D:\Users\Brennan\Desktop\Sandra Labs\EDX\Lab1\SelfAssessment Lab\SelfAssessment Lab\obj\Debug\SelfAssessment Lab.exe
+D:\Users\Brennan\Desktop\Sandra Labs\EDX\Lab1\SelfAssessment Lab\SelfAssessment Lab\obj\Debug\SelfAssessment Lab.pdb
+D:\Users\Brennan\Desktop\Sandra Labs\EDX\Lab1\SelfAssessment Lab\SelfAssessment Lab\bin\Debug\SelfAssessment Lab.exe
+D:\Users\Brennan\Desktop\Sandra Labs\EDX\Lab1\SelfAssessment Lab\SelfAssessment Lab\bin\Debug\SelfAssessment Lab.pdb
+D:\Users\Brennan\Desktop\Sandra Labs\EDX\Lab1\SelfAssessment Lab\SelfAssessment Lab\obj\Debug\SelfAssessment Lab.csprojResolveAssemblyReference.cache

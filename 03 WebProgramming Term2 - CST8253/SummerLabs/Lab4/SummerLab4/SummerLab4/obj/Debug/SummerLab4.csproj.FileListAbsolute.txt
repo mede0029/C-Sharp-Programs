@@ -1,0 +1,7 @@
+C:\Users\sandr\Desktop\SummerLabs\Lab4\SummerLab4\SummerLab4\bin\Debug\SummerLab4.exe.config
+C:\Users\sandr\Desktop\SummerLabs\Lab4\SummerLab4\SummerLab4\bin\Debug\SummerLab4.exe
+C:\Users\sandr\Desktop\SummerLabs\Lab4\SummerLab4\SummerLab4\bin\Debug\SummerLab4.pdb
+C:\Users\sandr\Desktop\SummerLabs\Lab4\SummerLab4\SummerLab4\obj\Debug\SummerLab4.csprojResolveAssemblyReference.cache
+C:\Users\sandr\Desktop\SummerLabs\Lab4\SummerLab4\SummerLab4\obj\Debug\SummerLab4.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\SummerLabs\Lab4\SummerLab4\SummerLab4\obj\Debug\SummerLab4.exe
+C:\Users\sandr\Desktop\SummerLabs\Lab4\SummerLab4\SummerLab4\obj\Debug\SummerLab4.pdb

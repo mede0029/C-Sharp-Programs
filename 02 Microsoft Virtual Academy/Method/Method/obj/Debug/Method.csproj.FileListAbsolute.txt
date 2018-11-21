@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\Method\Method\bin\Debug\Method.exe.config
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\Method\Method\bin\Debug\Method.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\Method\Method\bin\Debug\Method.pdb
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\Method\Method\obj\Debug\Method.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\Method\Method\obj\Debug\Method.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\Method\Method\obj\Debug\Method.pdb

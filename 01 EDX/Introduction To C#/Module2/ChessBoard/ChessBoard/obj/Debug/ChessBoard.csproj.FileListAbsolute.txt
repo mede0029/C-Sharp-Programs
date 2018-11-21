@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\EDX\Module2\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\sandr\source\repos\EDX\Module2\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\sandr\source\repos\EDX\Module2\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\sandr\source\repos\EDX\Module2\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\EDX\Module2\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\sandr\source\repos\EDX\Module2\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\sandr\source\repos\EDX\Module2\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache

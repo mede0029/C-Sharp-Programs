@@ -1,0 +1,14 @@
+C:\Users\sandr\source\repos\EDX_Module1\EDX_Module1\bin\Debug\EDX_Module1.exe.config
+C:\Users\sandr\source\repos\EDX_Module1\EDX_Module1\bin\Debug\EDX_Module1.exe
+C:\Users\sandr\source\repos\EDX_Module1\EDX_Module1\bin\Debug\EDX_Module1.pdb
+C:\Users\sandr\source\repos\EDX_Module1\EDX_Module1\obj\Debug\EDX_Module1.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\EDX_Module1\EDX_Module1\obj\Debug\EDX_Module1.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\EDX_Module1\EDX_Module1\obj\Debug\EDX_Module1.exe
+C:\Users\sandr\source\repos\EDX_Module1\EDX_Module1\obj\Debug\EDX_Module1.pdb
+C:\Users\sandr\source\repos\EDX\EDX_Module1\EDX_Module1\bin\Debug\EDX_Module1.exe.config
+C:\Users\sandr\source\repos\EDX\EDX_Module1\EDX_Module1\bin\Debug\EDX_Module1.exe
+C:\Users\sandr\source\repos\EDX\EDX_Module1\EDX_Module1\bin\Debug\EDX_Module1.pdb
+C:\Users\sandr\source\repos\EDX\EDX_Module1\EDX_Module1\obj\Debug\EDX_Module1.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\EDX\EDX_Module1\EDX_Module1\obj\Debug\EDX_Module1.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\EDX\EDX_Module1\EDX_Module1\obj\Debug\EDX_Module1.exe
+C:\Users\sandr\source\repos\EDX\EDX_Module1\EDX_Module1\obj\Debug\EDX_Module1.pdb

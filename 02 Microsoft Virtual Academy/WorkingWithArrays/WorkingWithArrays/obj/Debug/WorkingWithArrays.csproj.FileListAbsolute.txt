@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WorkingWithArrays\WorkingWithArrays\bin\Debug\WorkingWithArrays.exe.config
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WorkingWithArrays\WorkingWithArrays\bin\Debug\WorkingWithArrays.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WorkingWithArrays\WorkingWithArrays\bin\Debug\WorkingWithArrays.pdb
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WorkingWithArrays\WorkingWithArrays\obj\Debug\WorkingWithArrays.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WorkingWithArrays\WorkingWithArrays\obj\Debug\WorkingWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WorkingWithArrays\WorkingWithArrays\obj\Debug\WorkingWithArrays.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\WorkingWithArrays\WorkingWithArrays\obj\Debug\WorkingWithArrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ClassesPart1\ClassesPart1\bin\Debug\ClassesPart1.exe.config
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ClassesPart1\ClassesPart1\bin\Debug\ClassesPart1.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ClassesPart1\ClassesPart1\bin\Debug\ClassesPart1.pdb
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ClassesPart1\ClassesPart1\obj\Debug\ClassesPart1.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ClassesPart1\ClassesPart1\obj\Debug\ClassesPart1.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ClassesPart1\ClassesPart1\obj\Debug\ClassesPart1.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ClassesPart1\ClassesPart1\obj\Debug\ClassesPart1.pdb

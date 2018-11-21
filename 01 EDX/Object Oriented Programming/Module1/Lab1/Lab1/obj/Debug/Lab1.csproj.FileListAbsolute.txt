@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\sandr\source\repos\EDX\Object Oriented Programming\Module1\Lab1\Lab1\obj\Debug\Lab1.pdb

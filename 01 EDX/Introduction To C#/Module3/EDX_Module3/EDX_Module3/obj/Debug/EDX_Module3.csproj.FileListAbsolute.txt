@@ -1,0 +1,6 @@
+C:\Users\sandr\source\repos\EDX\Introduction\Module3\EDX_Module3\EDX_Module3\bin\Debug\EDX_Module3.exe.config
+C:\Users\sandr\source\repos\EDX\Introduction\Module3\EDX_Module3\EDX_Module3\bin\Debug\EDX_Module3.exe
+C:\Users\sandr\source\repos\EDX\Introduction\Module3\EDX_Module3\EDX_Module3\bin\Debug\EDX_Module3.pdb
+C:\Users\sandr\source\repos\EDX\Introduction\Module3\EDX_Module3\EDX_Module3\obj\Debug\EDX_Module3.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\EDX\Introduction\Module3\EDX_Module3\EDX_Module3\obj\Debug\EDX_Module3.exe
+C:\Users\sandr\source\repos\EDX\Introduction\Module3\EDX_Module3\EDX_Module3\obj\Debug\EDX_Module3.pdb

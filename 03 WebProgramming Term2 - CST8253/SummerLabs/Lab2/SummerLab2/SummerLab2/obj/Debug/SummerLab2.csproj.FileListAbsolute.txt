@@ -1,0 +1,7 @@
+C:\Users\sandr\Desktop\SummerLabs\Lab2\SummerLab2\SummerLab2\bin\Debug\SummerLab2.exe.config
+C:\Users\sandr\Desktop\SummerLabs\Lab2\SummerLab2\SummerLab2\bin\Debug\SummerLab2.exe
+C:\Users\sandr\Desktop\SummerLabs\Lab2\SummerLab2\SummerLab2\bin\Debug\SummerLab2.pdb
+C:\Users\sandr\Desktop\SummerLabs\Lab2\SummerLab2\SummerLab2\obj\Debug\SummerLab2.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\SummerLabs\Lab2\SummerLab2\SummerLab2\obj\Debug\SummerLab2.exe
+C:\Users\sandr\Desktop\SummerLabs\Lab2\SummerLab2\SummerLab2\obj\Debug\SummerLab2.pdb
+C:\Users\sandr\Desktop\SummerLabs\Lab2\SummerLab2\SummerLab2\obj\Debug\SummerLab2.csprojResolveAssemblyReference.cache

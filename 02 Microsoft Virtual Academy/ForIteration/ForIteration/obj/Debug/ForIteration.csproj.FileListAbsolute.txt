@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ForIteration\ForIteration\obj\Debug\ForIteration.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\ForIteration\ForIteration\obj\Debug\ForIteration.pdb

@@ -1,0 +1,21 @@
+G:\Algonquin\14W\CST8253\Week 3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe.config
+C:\Algonquin\15W\CST8253\Week 3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe.config
+C:\Algonquin\15W\CST8253\Week 3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe
+C:\Algonquin\15W\CST8253\Week 3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.pdb
+C:\Algonquin\15W\CST8253\Week 3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.csprojResolveAssemblyReference.cache
+C:\Algonquin\15W\CST8253\Week 3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.exe
+C:\Algonquin\15W\CST8253\Week 3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.pdb
+C:\Algonquin\18W\CST8253\Week 3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe.config
+C:\Algonquin\18W\CST8253\Week 3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe
+C:\Algonquin\18W\CST8253\Week 3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.pdb
+C:\Algonquin\18W\CST8253\Week 3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.csprojResolveAssemblyReference.cache
+C:\Algonquin\18W\CST8253\Week 3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.csproj.CoreCompileInputs.cache
+C:\Algonquin\18W\CST8253\Week 3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.exe
+C:\Algonquin\18W\CST8253\Week 3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.pdb
+C:\Users\sandr\Desktop\SummerLabs\Lab3\SummerLab3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe.config
+C:\Users\sandr\Desktop\SummerLabs\Lab3\SummerLab3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.exe
+C:\Users\sandr\Desktop\SummerLabs\Lab3\SummerLab3\Lab3Solution\Lab3Solution\bin\Debug\Lab3Solution.pdb
+C:\Users\sandr\Desktop\SummerLabs\Lab3\SummerLab3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.csprojResolveAssemblyReference.cache
+C:\Users\sandr\Desktop\SummerLabs\Lab3\SummerLab3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\SummerLabs\Lab3\SummerLab3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.exe
+C:\Users\sandr\Desktop\SummerLabs\Lab3\SummerLab3\Lab3Solution\Lab3Solution\obj\Debug\Lab3Solution.pdb

@@ -1,0 +1,7 @@
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\IfStatement\IfStatement\bin\Debug\IfStatement.exe.config
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\IfStatement\IfStatement\bin\Debug\IfStatement.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\IfStatement\IfStatement\bin\Debug\IfStatement.pdb
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\IfStatement\IfStatement\obj\Debug\IfStatement.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\IfStatement\IfStatement\obj\Debug\IfStatement.exe
+C:\Users\sandr\source\repos\Microsoft Virtual Academy\IfStatement\IfStatement\obj\Debug\IfStatement.pdb
