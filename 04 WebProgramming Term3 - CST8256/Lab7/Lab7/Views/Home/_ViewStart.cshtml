@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Academic Records System";
+
+    List<TopMenuItem> TopMenu = new List<TopMenuItem>();
+    TopMenu.Add(new TopMenuItem { AspAction = "Index", AspController = "Employees", DisplayText = "Employees" });
+    TopMenu.Add(new TopMenuItem { AspAction = "Index", AspController = "Students", DisplayText = "Students" });
+    TopMenu.Add(new TopMenuItem { AspAction = "Index", AspController = "Courses", DisplayText = "Courses" });
+    TopMenu.Add(new TopMenuItem { AspAction = "Index", AspController = "AcademicRecords", DisplayText = "Academic Records" });
+
+    ViewBag.TopMenu = TopMenu;
+
+}
+

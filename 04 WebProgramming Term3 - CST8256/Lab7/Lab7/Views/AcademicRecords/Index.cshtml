@@ -1,0 +1,60 @@
+﻿ @model Lab7.Models.DataAccess.AcademicRecord[]
+@using Lab7.Models.DataAccess;
+
+@{
+    Layout = "_ACLayout";
+}
+
+@{
+        ViewData["Title"] = "Index";
+ }
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Index">
+    <input type="hidden" name="sort" value="@ViewData["sort"]" />
+    <table class="table">
+        <thead>
+            <tr>
+                <th style="font-size: larger">
+                    <a asp-controller="AcademicRecords" asp-action="Index" asp-route-sort="course">Course</a>                
+                </th>
+                <th style="font-size: larger">
+                    <a asp-controller="AcademicRecords" asp-action="Index" asp-route-sort="student">Student</a>  
+                </th>
+                <th style="font-size: larger">
+                    Grade
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Length; i++)
+ 
+            {
+                 <tr>
+                    <td>
+                        <span asp-for="@Model[i].CourseCodeNavigation.Code">@Model[i].CourseCode - @Model[i].CourseCodeNavigation.Title</span>
+                        <input type="hidden" asp-for="@Model[i].CourseCodeNavigation" />
+                    </td>
+                    <td>
+                        <span asp-for="@Model[i].Student.Name">@Model[i].StudentId - @Model[i].Student.Name</span>
+                        <input type="hidden" asp-for="@Model[i].StudentId" />
+                    </td>
+                    <th>
+                        <input type="text" class="form-control" style="width: 60px" asp-for="@Model[i].Grade" value="@Model[i].Grade" />
+                        <input type="hidden" asp-for="@Model[i].CourseCode" />
+                    </th>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>

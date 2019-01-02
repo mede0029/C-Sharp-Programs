@@ -1,0 +1,63 @@
+﻿@model List<Employee>
+@using Lab7.Models.DataAccess;
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@if (Model.Count == 0)
+{
+    <p style="color:red">Currently no employee exists in the system!</p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <label asp-for="@Model[0].Name"></label>              
+            </th>
+            <th>
+                <label asp-for="@Model[0].UserName"></label>
+            </th>
+            <th>
+                <label asp-for="@Model[0].Roles"></label>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+
+                    @{
+                        int counter = 0;
+
+                        foreach (var role in item.Roles)
+                        {
+                            if (counter > 0)
+                            {@:,
+                            }
+                            @Html.DisplayFor(modelItem => role.Role1);
+                            counter++;
+                        }
+                    }
+                                       
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
