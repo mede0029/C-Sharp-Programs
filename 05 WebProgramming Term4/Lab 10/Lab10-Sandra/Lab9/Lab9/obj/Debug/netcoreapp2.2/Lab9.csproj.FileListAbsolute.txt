@@ -1,0 +1,123 @@
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.deps.json
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.runtimeconfig.json
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.runtimeconfig.dev.json
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.dll
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csprojAssemblyReference.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorAssemblyInfo.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorAssemblyInfo.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.AssemblyInfoInputs.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.AssemblyInfo.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.TagHelpers.input.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.TagHelpers.output.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorCoreGenerate.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorTargetAssemblyInfo.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorTargetAssemblyInfo.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\bin\Debug\netcoreapp2.2\x64\ChakraCore.dll
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.pdb
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.Views.dll
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.Views.pdb
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.Views.pdb
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.dll
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.pdb
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csproj.CopyComplete
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab9\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\bin\Debug\netcoreapp2.2\x64\ChakraCore.dll
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.deps.json
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.runtimeconfig.json
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.runtimeconfig.dev.json
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.dll
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.pdb
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.Views.dll
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.Views.pdb
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csprojAssemblyReference.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorAssemblyInfo.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorAssemblyInfo.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.AssemblyInfoInputs.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.AssemblyInfo.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.TagHelpers.input.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.TagHelpers.output.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorCoreGenerate.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AlgCommonLayout.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorTargetAssemblyInfo.cache
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorTargetAssemblyInfo.cs
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.Views.pdb
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.dll
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.pdb
+C:\Users\adesa\Desktop\School\SEMESTER 4\WEB PROGRAMMING II - CST8259\LABS\Lab10\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csproj.CopyComplete
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\bin\Debug\netcoreapp2.2\x64\ChakraCore.dll
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.deps.json
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.runtimeconfig.json
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.runtimeconfig.dev.json
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.dll
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.pdb
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.Views.dll
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.Views.pdb
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csprojAssemblyReference.cache
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorAssemblyInfo.cache
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorAssemblyInfo.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.AssemblyInfoInputs.cache
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.AssemblyInfo.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.TagHelpers.input.cache
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.TagHelpers.output.cache
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorCoreGenerate.cache
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AlgCommonLayout.g.cshtml.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorTargetAssemblyInfo.cache
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorTargetAssemblyInfo.cs
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.Views.pdb
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.dll
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.pdb
+C:\Users\sandr\Desktop\Lab10-Amanda\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csproj.CopyComplete
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\bin\Debug\netcoreapp2.2\x64\ChakraCore.dll
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.deps.json
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.runtimeconfig.json
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.runtimeconfig.dev.json
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.dll
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.pdb
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.Views.dll
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\bin\Debug\netcoreapp2.2\Lab9.Views.pdb
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csprojAssemblyReference.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorAssemblyInfo.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorAssemblyInfo.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.AssemblyInfoInputs.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.AssemblyInfo.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.TagHelpers.input.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.TagHelpers.output.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorCoreGenerate.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AlgCommonLayout.g.cshtml.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorTargetAssemblyInfo.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.RazorTargetAssemblyInfo.cs
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.Views.pdb
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.dll
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.pdb
+C:\Users\sandr\source\repos\05 WebProgramming Term4\Lab 10\Lab10-Sandra\Lab9\Lab9\obj\Debug\netcoreapp2.2\Lab9.csproj.CopyComplete

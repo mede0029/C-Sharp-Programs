@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html style="height:100%;">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="~/lib/bootstrap/dist/bootstrap.min.css" rel="stylesheet"/>
+    <link href="~/css/site.css" rel="stylesheet" />
+    @*<link href="~/css/SiteStyles.css" rel="stylesheet" />*@
+</head>
+<body style="padding-top: 50px; height:100%;">
+    <div style="min-height:100%; position:relative;">
+        <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" style="padding: 10px" href="http://www.algonquincollege.com">
+                        <img src="~/images/AC.png"
+                             alt="Algonquin College" style="max-width:100%; max-height:100%;" />
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="@Url.Content("~/")">Home <span class="sr-only">(current)</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container" style="padding-bottom: 80px;">
+            @RenderBody()
+        </div>
+        <footer style="position: absolute; bottom: 0; width: 100%; height: 60px; background-color: darkgreen;">
+            <div class="container">
+                <p style="text-align: center; padding: 10px; color: white;">&copy; Algonquin College 2000 - 2016. All Rights Reserved</p>
+            </div>
+        </footer>
+    </div>
+    <script src="~/lib/jquery/dist/jquery-2.2.4.min.js"></script>
+    <script src="~/lib/bootstrap/dist/bootstrap.min.js"></script>
+    <script src="~/lib/React/react.js"></script>
+    <script src="~/lib/React/react-dom.js"></script>
+    @RenderSection("JavaScripts", false)
+</body>
+</html>

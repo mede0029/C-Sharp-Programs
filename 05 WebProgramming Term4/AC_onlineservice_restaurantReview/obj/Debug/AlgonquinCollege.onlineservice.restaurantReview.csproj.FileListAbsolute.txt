@@ -1,0 +1,21 @@
+C:\Users\sandr\Desktop\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.dll.config
+C:\Users\sandr\Desktop\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.dll
+C:\Users\sandr\Desktop\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.pdb
+C:\Users\sandr\Desktop\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.csprojAssemblyReference.cache
+C:\Users\sandr\Desktop\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.dll
+C:\Users\sandr\Desktop\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.pdb
+D:\Sandra\2019\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.dll.config
+D:\Sandra\2019\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.dll
+D:\Sandra\2019\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.pdb
+D:\Sandra\2019\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.csprojAssemblyReference.cache
+D:\Sandra\2019\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.csproj.CoreCompileInputs.cache
+D:\Sandra\2019\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.dll
+D:\Sandra\2019\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.pdb
+C:\Users\sandr\source\repos\05 WebProgramming Term4\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.dll.config
+C:\Users\sandr\source\repos\05 WebProgramming Term4\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.dll
+C:\Users\sandr\source\repos\05 WebProgramming Term4\AlgonquinCollege.onlineservice.restaurantReview\bin\AlgonquinCollege.onlineservice.restaurantReview.pdb
+C:\Users\sandr\source\repos\05 WebProgramming Term4\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.csprojAssemblyReference.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\05 WebProgramming Term4\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.dll
+C:\Users\sandr\source\repos\05 WebProgramming Term4\AlgonquinCollege.onlineservice.restaurantReview\obj\Debug\AlgonquinCollege.onlineservice.restaurantReview.pdb

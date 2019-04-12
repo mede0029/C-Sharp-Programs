@@ -1,0 +1,69 @@
+﻿body {
+}
+.form
+{
+    height: 500px;
+    width: 663px;
+}
+        
+.row{ margin: 5px;}
+        
+.label{
+    display:inline-block; 
+    text-align: right; 
+    width: 120px;
+}
+.labelShort{
+    display:inline-block; 
+    text-align: right; 
+    width: 100px;
+}
+.textBoxLong {
+    width: 450px;
+}
+.textBoxShort {
+    width: 75px;
+}
+.textBox {
+    height: 150px;
+    width: 560px;
+    padding: 5px;
+    margin: 10px
+}
+.listBox {
+    height: 450px;
+    width: 100%;
+    padding: 5px;
+    margin: 10px
+}
+.checkBox {
+    height: 100px;
+    width: 400px;
+    padding: 5px;
+    margin: 10px
+}
+.dropdown {
+    Width: 400px;
+    Height: 22px
+}
+.displayPanel {
+    margin: 10px;
+    vertical-align: middle
+}
+.listLabel {
+    margin: 10px;
+    display:block
+}
+.error {
+    color : red
+}
+.pagebutton {
+    color : white;
+    background-color: navy;
+    height : 30px
+
+}
+
+.deselectButton {
+    padding-bottom:50px
+}
